@@ -5,7 +5,7 @@ from piglow import PiGlow
 piglow = PiGlow()
 piglow.all(0)
 # the police
-for i in range(1, 100):
+for i in range(1, 20):
   piglow.all(0)
   piglow.blue(100)
   sleep(.2)

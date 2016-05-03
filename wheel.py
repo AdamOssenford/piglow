@@ -4,7 +4,7 @@ from piglow import PiGlow
 
 piglow = PiGlow()
 
-for i in range(1, 100):
+for i in range(1, 10):
   #on
   piglow.arm(1,100)
   sleep(0.5)
