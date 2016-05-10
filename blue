@@ -1,0 +1,2 @@
+	echo "starting blue"
+	/usr/bin/python /home/pi/piglow/blue.py 

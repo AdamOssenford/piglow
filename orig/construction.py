@@ -7,9 +7,9 @@ piglow.all(0)
 # construction
 for i in range(1, 20):
   piglow.orange(100)
-  sleep(.3)
+  sleep(.5)
   piglow.all(0) 
   piglow.yellow(100)
-  sleep(.2)
+  sleep(.5)
   piglow.all(0) 
 

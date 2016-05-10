@@ -1,0 +1,2 @@
+	echo "starting wheel"
+	/usr/bin/python /home/pi/piglow/wheel.py 

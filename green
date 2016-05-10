@@ -1,0 +1,2 @@
+	echo "starting green"
+	/usr/bin/python /home/pi/piglow/green.py 

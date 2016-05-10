@@ -4,12 +4,15 @@ from piglow import PiGlow
 
 piglow = PiGlow()
 piglow.all(0)
-# construction
+# the police
 for i in range(1, 20):
-  piglow.orange(100)
-  sleep(.3)
-  piglow.all(0) 
-  piglow.yellow(100)
+  piglow.all(0)
+  piglow.blue(100)
   sleep(.2)
   piglow.all(0) 
+  piglow.red(100)
+  sleep(.2)
 
+piglow.all(0)
+piglow.all(200)
+piglow.all(0)

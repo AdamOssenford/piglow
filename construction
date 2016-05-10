@@ -1,0 +1,2 @@
+	echo "starting construction"
+	/usr/bin/python /home/pi/piglow/construction.py 

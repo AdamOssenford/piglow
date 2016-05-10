@@ -1,0 +1,2 @@
+	echo "starting yellow"
+	/usr/bin/python /home/pi/piglow/yellow.py 
